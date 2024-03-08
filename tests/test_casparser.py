@@ -1,4 +1,4 @@
-from casparser import CasParser
+from cassummaryparser import CasParser
 
 def test_the_parser():
     file = './tests/nopass.pdf'

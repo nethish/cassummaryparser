@@ -1,5 +1,5 @@
 import tabula
-from casparser import CasRecord
+from cassummaryparser import CasRecord
 
 class CasParser:
     """Class that parses a cas summary file using tabula-py"""

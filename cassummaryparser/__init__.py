@@ -12,6 +12,6 @@ __status__ = "Production"
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
-from casparser.CasRecord import CasRecord
-from casparser.CasParser import CasParser
+from cassummaryparser.CasRecord import CasRecord
+from cassummaryparser.CasParser import CasParser
 
