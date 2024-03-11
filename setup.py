@@ -5,7 +5,7 @@ long_description = 'This is a Python library to parse CAS Summary PDFs generated
 setup(
     name='cassummaryparser',
     packages=find_packages(include=['cassummaryparser']),
-    version='0.1.0',
+    version='0.1.1',
     description='Cas summary parser',
     long_description=long_description,
     author='Nethish Rajendran',
